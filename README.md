@@ -1,4 +1,4 @@
-= Test Project Readme
+h1. Test Project Readme
 
 My test project readme
 
